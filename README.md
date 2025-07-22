@@ -34,23 +34,19 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prattyan&show_icons=true&theme=default&locale=en" alt="prattyan stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prattyan&show_icons=true&theme=default" />
 </p>
 
----
-
-### 🔥 GitHub Streaks
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prattyan&theme=default" alt="prattyan streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=prattyan&theme=default" />
 </p>
-
----
 
 ### 📊 Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prattyan&layout=compact&theme=default" alt="prattyan languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prattyan&layout=compact&theme=default" />
 </p>
 
 ---
