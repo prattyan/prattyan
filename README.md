@@ -39,10 +39,7 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=prattyan&theme=default" />
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=prattyan)](https://git.io/streak-stats)
 ### 📊 Languages Used
 
 <p align="center">
