@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;Open%20Source%20Enthusiast;Always%20learning%20new%20Stuffs&font=Fira%20Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 ### 🧑‍💻 About Me
 
 - 🎓 Final Year B.Tech Student (AI/ML)
