@@ -51,9 +51,9 @@
 
 ### 🚀 Recent Projects
 
-- 🔹 [AI Resume Parser](https://github.com/prattyan/ai-resume-parser)
-- 🔹 [Smart Doubt Solver](https://github.com/prattyan/smart-doubt-solver)
-- 🔹 [Personal Finance CLI App](https://github.com/prattyan/personal-finance-cli)
+- 🔹 [AI Resume Parser](https://github.com/prattyan/resume-parser)
+- 🔹 [Student Management System](https://github.com/prattyan/student-management-system)
+- 🔹 [Personal Finance CLI App](https://github.com/prattyan/personal-finance-app)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
