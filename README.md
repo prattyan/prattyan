@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final Year B.Tech Student (AI/ML)
+- 🎓 3rd Year B.Tech Student (AI/ML)
 - 🚀 Working on: **Smart Doubt Solver (AI/ML-based Web App)**
 - 📚 Learning: **FastAPI, LangChain, SQL Optimization**
 - 👯 Collaborating on: **AI Resume Parser System**
