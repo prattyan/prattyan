@@ -59,9 +59,3 @@
 [![Mail](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:prattyanghosh@gmail.com)
 
 ---
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/prattyan/prattyan/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
