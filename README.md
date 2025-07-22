@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Prattyan Ghosh</h1>
-<h3 align="center">🚀 Final Year Developer | 🤖 AI/ML Enthusiast | 🌐 Web Wizard</h3>
+<h3 align="center">🚀 3rd Year Developer | 🤖 AI/ML Enthusiast | 🌐 Web Wizard</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prattyan&label=Profile%20views&color=0e75b6&style=flat" alt="prattyan" />
