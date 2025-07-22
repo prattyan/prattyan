@@ -17,7 +17,7 @@
 - 📚 Learning: **FastAPI, LangChain, SQL Optimization**
 - 👯 Collaborating on: **AI Resume Parser System**
 - 📝 I love building real-world AI-powered tools
-- 📫 Reach me: **ghoshprattyan@gmail.com**
+- 📫 Reach me: **prattyanghosh@gmail.com**
 - ⚡ Fun fact: I turn pizza into Python code 🍕
 
 ---
