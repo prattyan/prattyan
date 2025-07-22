@@ -65,9 +65,9 @@
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/prattyan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/prattyanghosh)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/prattyan)
-[![Mail](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:ghoshprattyan@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:prattyanghosh@gmail.com)
 
 ---
 
