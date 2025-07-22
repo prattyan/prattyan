@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prattyan&label=Profile%20views&color=0e75b6&style=flat" alt="prattyan" />
-  <img src="https://badges.pufler.dev/commits/monthly/prattyan" alt="Monthly Commits" />
   <img src="https://img.shields.io/github/followers/prattyan?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
@@ -37,9 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prattyan&show_icons=true&theme=default" />
 </p>
 
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=prattyan)](https://git.io/streak-stats)
 ### 📊 Languages Used
 
 <p align="center">
