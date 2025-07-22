@@ -1,4 +1,3 @@
-<!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Prattyan Ghosh</h1>
 <p align="center">
@@ -11,7 +10,7 @@
   <img src="https://img.shields.io/github/followers/prattyan?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 
@@ -25,7 +24,7 @@
 - 📫 Reach me: **prattyanghosh@gmail.com**
 - ⚡ Fun fact: I turn pizza into Python code 🍕
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🛠️ Tech Stack
 
@@ -33,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css,tailwind,mysql,sqlite,git,github,linux,vscode" />
 </p>
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 📈 GitHub Stats
 
@@ -47,7 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prattyan&layout=compact&theme=default" />
 </p>
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🚀 Recent Projects
 
@@ -55,7 +54,7 @@
 - 🔹 [Smart Doubt Solver](https://github.com/prattyan/smart-doubt-solver)
 - 🔹 [Personal Finance CLI App](https://github.com/prattyan/personal-finance-cli)
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🌐 Let's Connect
 
@@ -63,4 +62,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/prattyan)
 [![Mail](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:prattyanghosh@gmail.com)
 
----
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
