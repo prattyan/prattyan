@@ -1,5 +1,6 @@
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">Hi 👋, I'm Prattyan Ghosh</h1>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;Open%20Source%20Enthusiast;Always%20learning%20new%20Stuffs&font=Fira%20Code&center=true&width=440&height=45&color=1BFFDF&vCenter=true&pause=1000&size=22" /></a>
 </p>
