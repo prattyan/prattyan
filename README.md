@@ -62,6 +62,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/prattyanghosh)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/prattyan)
 [![Mail](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:prattyanghosh@gmail.com)
-[![Portfolio]([[https://prattyanghosh.vercel.app](https://img.shields.io/badge/Portfolio-white)](https://prattyanghosh.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-white)](https://prattyanghosh.vercel.app)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
