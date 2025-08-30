@@ -53,7 +53,7 @@
 
 - 🔹 [AI Resume Parser](https://github.com/prattyan/resume-parser)
 - 🔹 [Student Management System](https://github.com/prattyan/student-management-system)
-- 🔹 [Personal Finance CLI App](https://github.com/prattyan/personal-finance-app)
+- 🔹 [Traffic Management](https://github.com/prattyan/traffic-manage)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -62,5 +62,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/prattyanghosh)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/prattyan)
 [![Mail](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:prattyanghosh@gmail.com)
+[![Portfolio](prattyanghosh.vercel.app)
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
