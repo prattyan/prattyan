@@ -51,7 +51,7 @@
 
 ### 🚀 Recent Projects
 
-- 🔹 [AI Resume Parser](https://github.com/prattyan/resume-parser)
+- 🔹 [Smart City Traffic Management System](https://github.com/Ashis-404/Smart_City_Traffic_Management_System)
 - 🔹 [Student Management System](https://github.com/prattyan/student-management-system)
 - 🔹 [Traffic Management](https://github.com/prattyan/traffic-manage)
 
