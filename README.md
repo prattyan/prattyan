@@ -51,7 +51,7 @@
 
 ### 🚀 Recent Projects
 
-- 🔹 [Nabha Rural Healthcare Telemedicine Platform]([https://github.com/Ashis-404/Smart_City_Traffic_Management_System](https://github.com/prattyan/nabha-health-web))
+- 🔹 [Nabha Rural Healthcare Telemedicine Platform](https://github.com/prattyan/nabha-health-web)
 - 🔹 [Student Management System](https://github.com/prattyan/student-management-system)
 - 🔹 [Traffic Management](https://github.com/prattyan/traffic-manage)
 
