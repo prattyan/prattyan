@@ -38,7 +38,7 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🏆 Competitive Programming Stats
+## Competitive Programming Stats
 
 <div align="center">
 
@@ -60,8 +60,6 @@
   </a>
 </p>
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prattyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
