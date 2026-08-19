@@ -88,31 +88,33 @@ AI-powered event management platform focused on smarter event discovery, registr
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
 ## 🚀 Featured Projects
 
-### 🏥 Nabha Rural Healthcare Platform
+### 🤖 Multi-Face Recognition System
 
-> **AI-powered telemedicine platform for rural healthcare**
+> **AI-powered real-time face detection and recognition system**
 
-- 🌐 Multilingual healthcare experience
-- 🤖 AI-powered symptom assistance
-- 📶 Designed for low-bandwidth environments
-- 💊 Digital medical records & pharmacy management
-- 👨‍⚕️ Patient, doctor & health-worker workflows
+- 👥 Detects and recognizes multiple faces simultaneously
+- 🎥 Supports real-time video stream processing
+- 🧠 Computer vision-based face recognition pipeline
+- ⚡ Optimized for processing multiple faces in a single frame
+- 🔐 Designed with practical identity recognition use cases in mind
 
 **Stack**
 
-`React` `TypeScript` `Tailwind CSS` `AI/ML`
+`Python` `OpenCV` `Computer Vision` `Face Recognition` `AI/ML`
 
 <p>
-<a href="https://github.com/prattyan/nabha-health-web">
+<a href="YOUR_MULTI_FACE_RECOGNITION_GITHUB_REPO">
 <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-### 🎟️ EvenTron
+### 🎟️ EventTron
 
 > **AI-powered event management & discovery platform**
 
@@ -124,7 +126,7 @@ AI-powered event management platform focused on smarter event discovery, registr
 
 **Stack**
 
-`React` `FastAPI` `Python` `MongoDB` `AI`
+`React` `FastAPI` `Python` `MongoDB` `AI` `Semantic Search`
 
 <p>
 <a href="https://github.com/prattyan/EventHorizon">
@@ -154,7 +156,6 @@ AI-powered event management platform focused on smarter event discovery, registr
 </a>
 </p>
 
----
 
 <!-- ===================== TECH STACK ===================== -->
 
