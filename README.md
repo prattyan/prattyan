@@ -42,17 +42,28 @@
 
 <div align="center">
 
-### 💻 LeetCode
-<a href="https://leetcode.com/prattyan" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/prattyan?ext=contest&theme=dark&font=JetBrains%20Mono&animation=false" alt="LeetCode Stats" />
+### 🟢 HackerRank
+
+<a href="https://www.hackerrank.com/profile/prattyanghosh" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Prattyan%20Ghosh-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
 </a>
 
-
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/prattyanghosh">
+    <img src="https://img.shields.io/badge/SQL-Advanced-00EA64?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/prattyanghosh">
+    <img src="https://img.shields.io/badge/Python-Basic-00EA64?style=flat-square&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/prattyanghosh">
+    <img src="https://img.shields.io/badge/Problem%20Solving-Basic-00EA64?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prattyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</div>
 
 ## GitHub Activity Graph
 
